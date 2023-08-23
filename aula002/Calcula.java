@@ -8,5 +8,7 @@ public class Calcula {
         int num2 = num1 / 2;
 
         System.out.println(num2);
+        String texto = "Minha String";
+        
     }
 }
