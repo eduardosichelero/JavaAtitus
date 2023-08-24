@@ -3,7 +3,7 @@ package aula002;
 /**
  * ex001
  */
-public class ex001 {
+public class Calculo2 {
 
     public static void main(String[] args) {
         int var01 = 4;
