@@ -1,11 +1,11 @@
-package aula003;
+package aula002;
 
 import java.util.Scanner;
 
 /**
  * ex001
  */
-public class ex001 {
+public class Media {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
